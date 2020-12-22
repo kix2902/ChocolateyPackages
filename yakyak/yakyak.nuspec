@@ -3,7 +3,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>yakyak</id>
-    <version>1.5.9</version>
+    <version>1.5.10</version>
     <packageSourceUrl>https://github.com/kix2902/ChocolateyPackages/tree/master/yakyak</packageSourceUrl>
     <owners>kix2902</owners>
     <title>YakYak (Portable)</title>
@@ -15,7 +15,7 @@
     <projectSourceUrl>https://github.com/yakyak/yakyak</projectSourceUrl>
     <docsUrl>https://github.com/yakyak/yakyak/wiki</docsUrl>
     <bugTrackerUrl>https://github.com/yakyak/yakyak/issues</bugTrackerUrl>
-    <tags>yakyak google hangouts coffeescript portable</tags>
+    <tags>yakyak google hangouts chat coffeescript portable</tags>
     <summary>Desktop client for Google Hangouts</summary>
     <description>
 ___
