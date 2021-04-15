@@ -1,8 +1,8 @@
 ﻿$ErrorActionPreference = 'Stop'
 $packageName  = 'yakyak' 
 $toolsDir     = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$url          = 'https://github.com/yakyak/yakyak/releases/download/v1.5.11.1/yakyak-1.5.11.1-win32-x64.zip'
-$checksum     = 'B8EA747F2B1EFCAF6A51B225E3833E06923E163B071E7C83F482DBFB07B5605B'
+$url          = 'https://github.com/yakyak/yakyak/releases/download/v1.5.11.3/yakyak-1.5.11.3-win32-x64.zip'
+$checksum     = '043ae2f62cecbc3d7ded341859430a9e7796163ebe8b1928dd9e8512454914e9'
 $ShortcutName = 'YakYak.lnk'
 $unzipDir     = 'YakYak-win32-x64'
 $exe          = 'YakYak.exe'
